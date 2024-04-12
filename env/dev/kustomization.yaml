@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/jordangarrison/demo-app
-  newTag: latest
+  newTag: d3fbfcb0b1a507566c08b660869fb6f627ea1302
