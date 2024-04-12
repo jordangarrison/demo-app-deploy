@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/jordangarrison/demo-app
+  newTag: 8d4a150aa6f0d71b602d43072ad40a3a646e395e
