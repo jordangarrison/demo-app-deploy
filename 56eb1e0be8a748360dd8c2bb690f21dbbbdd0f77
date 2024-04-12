@@ -1,1 +1,3 @@
 image: ghcr.io/jordangarrison/demo-app:8d4a150aa6f0d71b602d43072ad40a3a646e395e
+
+env: stage
